@@ -1,0 +1,29 @@
+body{
+   font-family: 'Josefin Sans', sans-serif;
+background-image: url(https://img.freepik.com/free-photo/gray-wall-textures-for-background_74190-4389.jpg?w=2000)
+
+}
+h1{
+   color: rgb(0, 0, 0);
+   text-align: center;
+}
+.tiltle{
+}
+.jin{
+   width: 145px;
+   margin-left: 408px;
+
+}
+
+.link{
+
+
+
+
+}  
+
+.temp{
+   position: absolute;
+   top: 137px;
+   right: 373px;
+}
